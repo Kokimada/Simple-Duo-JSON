@@ -1,1 +1,1 @@
-JSON Example for Turrets in Mindustry
+Mindustryのタレット用JSONモッド例
